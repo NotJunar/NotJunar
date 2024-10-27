@@ -17,7 +17,7 @@ Low effort developer.
 - **[JN Network](https://dsc.gg/joinjnmc)** - A Minecraft network with custom features blending survival and RPG elements.
 
 ## 🎮 Status on Discord
-![Discord](https://discord-readme-badge.vercel.app/api?id=NotJunar)
+![Discord](https://discord-readme-badge.vercel.app/api?id=1091865918461718660)
 
 ---
 
