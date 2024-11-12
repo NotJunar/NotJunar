@@ -16,7 +16,7 @@ Not really a developer, I just complain.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotJunar&layout=compact&theme=tokyonight)
 
 ## 🚀 Projects
-- ![My Homepage](https://notjunar.is-a.dev) - View My Latest Projects There!
+- [My Homepage](https://notjunar.is-a.dev) - View My Latest Projects There!
 
 ## 🎮 Status on Discord
 ![Discord](https://discord-readme-badge.vercel.app/api?id=1091865918461718660)
